@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KintoneDapper.ApiProxy", "KintoneDapper.ApiProxy.csproj", "{F8C91AA4-6D0C-4DCF-8082-8DE293F0423E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KintoneDapper.Model", "..\KintoneDapper.Model\KintoneDapper.Model.csproj", "{D6F41CFF-9D90-4603-95B5-22CFDC5C8122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C91AA4-6D0C-4DCF-8082-8DE293F0423E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C91AA4-6D0C-4DCF-8082-8DE293F0423E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C91AA4-6D0C-4DCF-8082-8DE293F0423E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C91AA4-6D0C-4DCF-8082-8DE293F0423E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F41CFF-9D90-4603-95B5-22CFDC5C8122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F41CFF-9D90-4603-95B5-22CFDC5C8122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F41CFF-9D90-4603-95B5-22CFDC5C8122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F41CFF-9D90-4603-95B5-22CFDC5C8122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE5217EB-90BB-43BE-938F-B2F60B03736B}
+	EndGlobalSection
+EndGlobal
